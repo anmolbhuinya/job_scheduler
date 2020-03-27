@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.arb.jobscheduler.scheduler.JobSchedulerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-27T10:59:43" hostname="8c85907828c2" time="20.014">
+  <properties/>
+  <testcase name="testJobScheduler" classname="com.arb.jobscheduler.scheduler.JobSchedulerTest" time="20.014"/>
+  <system-out><![CDATA[I am Anmol
+I play hockey
+In ground
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
